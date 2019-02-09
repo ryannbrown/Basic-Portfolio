@@ -85,7 +85,7 @@ hr {
     color:grey;
     background-color:white;
     width:960px;
-    height:600px;
+    height:650px;
     margin:auto;
     padding:15px;
     margin-top:125px;
@@ -181,4 +181,11 @@ input {
     color:white;
     font-size:20px;
     font-family:'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.footer {
+    height: 50px;
+    margin-top: -50px;
+    border-top: 8px solid #4aaaa5;
+    background-color:grey;
 }
