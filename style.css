@@ -31,6 +31,12 @@ h2 {
     z-index:2;
 }
 
+.nav-edits {
+    width:960px;
+    position:relative;
+    margin:auto;
+}
+
 a:link{
     color:grey;
     text-decoration:none;
@@ -57,7 +63,7 @@ li {
     text-align:center;
     align-content:left;
     line-height:100px;
-    margin-left:275px;
+    margin-left:-3px;
     
 }
 
